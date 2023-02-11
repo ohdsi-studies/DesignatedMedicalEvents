@@ -4,7 +4,7 @@
   "description": "Cohort diagnostics on Designated Medical Events",
   "version": "v0.1.0",
   "skeletonVersion": "v0.0.1",
-  "createdDate": 19398,
+  "createdDate": 19399,
   "createdBy": "rao@ohdsi.org",
   "cohortDefinitions": [
     {
@@ -36547,7 +36547,7 @@
     }
   ],
   "name": "Designated Medical Events - an OHDSI network study",
-  "modifiedDate": 19398,
+  "modifiedDate": 19399,
   "modifiedBy": "rao@ohdsi.org",
   "id": 1,
   "packageName": "DesignatedMedicalEvents"

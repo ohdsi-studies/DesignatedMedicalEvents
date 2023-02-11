@@ -1,4 +1,4 @@
-# Copyright 2022 Observational Health Data Sciences and Informatics
+# Copyright 2023 Observational Health Data Sciences and Informatics
 #
 # This file is part of DesignatedMedicalEvents
 #
@@ -24,11 +24,8 @@ unlink("extras/UsingSkeletonPackage.pdf")
 shell("R CMD Rd2pdf ./ --output=extras/UsingSkeletonPackage.pdf")
 
 # Store environment in which the study was executed -----------------------
-OhdsiRTools::createRenvLockFile(rootPackage = "DesignatedMedicalEvents",
-                                mode = "description",
-                                ohdsiGitHubPackages = unique(c('ResultModelManager', c(OhdsiRTools::getOhdsiGitHubPackages()))),
-                                includeRootPackage = FALSE)
-
-
-
-
+OhdsiRTools::createRenvLockFile(
+  rootPackage = "DesignatedMedicalEvents",
+  mode = "description",
+  ohdsiGitHubPackages = OhdsiRTools::getOhdsiGitHubPackages()
+)
