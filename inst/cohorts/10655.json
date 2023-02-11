@@ -1,0 +1,4410 @@
+{
+  "ExpressionLimit": {"Type": "All"},
+  "CollapseSettings": {
+    "CollapseType": "ERA",
+    "EraPad": 0
+  },
+  "CensorWindow": {},
+  "ConceptSets": [
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4267147,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "61928009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Platelet count",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 3031586,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "49497-1",
+            "VOCABULARY_ID": "LOINC",
+            "CONCEPT_NAME": "Platelets [#/volume] in Blood by Estimate",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Lab Test",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 3050583,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "53800-9",
+            "VOCABULARY_ID": "LOINC",
+            "CONCEPT_NAME": "Platelets panel - Blood by Automated count",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Lab Test",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 3007461,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "26515-7",
+            "VOCABULARY_ID": "LOINC",
+            "CONCEPT_NAME": "Platelets [#/volume] in Blood",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Lab Test",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 37393863,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "1022651000000100",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Platelet count",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Observable Entity",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "Platelet measurement",
+      "id": 7
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 37397537,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "718196002",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Beta thalassemia X-linked thrombocytopenia syndrome",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4121131,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "234469001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Inherited platelet disorder",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4006469,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "111584000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Reticular dysgenesis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42537688,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "737221003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Congenital thrombocytopenia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 437242,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "267535004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Congenital thrombocytopenic purpura",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "Congenital or genetic causes for thrombocytopenia",
+      "id": 9
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4280071,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "6631009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Thrombocytosis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 36715584,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "721302006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Refractory anemia with ringed sideroblasts associated with marked thrombocytosis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45766614,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "703817002",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Refractory anemia with ring sideroblasts associated with marked thrombocytosis",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Morph Abnormality",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "Thrombocytosis",
+      "id": 10
+    },
+    {
+      "expression": {"items": [{
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4098292,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "26843008",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Antiphospholipid syndrome",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      }]},
+      "name": "Antiphospholipid syndrome",
+      "id": 12
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 192298,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "58381000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Hypersplenism",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 200527,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "16294009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Splenomegaly",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4064314,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "164162005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "O/E - splenomegaly",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4272928,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "63444004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Thrombocytopenia due to hypersplenism",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "Hypersplenism",
+      "id": 13
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 75580,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "52231000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Chronic ulcerative proctitis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 76685,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "91637004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Myasthenia gravis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 80809,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "69896004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Rheumatoid arthritis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 81893,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "64766004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Ulcerative colitis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 140168,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "9014002",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Psoriasis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 194992,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "396331005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Celiac disease",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 201606,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "34000006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Crohn's disease",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 254443,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "83901003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Sjögren's syndrome",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 257628,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "55464009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Systemic lupus erythematosus",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 315763,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "188572001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Hodgkin's disease, nodular sclerosis of lymph nodes of multiple sites",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 374919,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "24700007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Multiple sclerosis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 375260,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "193177003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Polyneuropathy in collagen vascular disease",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 761978,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "25470001000004105",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Cognitive impairment due to multiple sclerosis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 765565,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "24800001000004103",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Functional quadriplegia due to multiple sclerosis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 3654567,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "836472001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Spindling of fingers of bilateral hands due to rheumatoid arthritis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 3655583,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "866047004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Multiple mononeuropathy due to perinuclear antineutrophil cytoplasmic associated antibody associated vasculitis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 3656106,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "871631000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Ulcer of intestine due to immunoglobulin A vasculitis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4009501,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "111188005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Psoriasiform napkin eruption",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4028118,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "10713006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Diffuse interstitial rheumatoid disease of lung",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4044056,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "230307005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Chorea in systemic lupus erythematosus",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4045732,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "230687001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Myopathy in myasthenia gravis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4060405,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "21430002",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Dilated cardiomyopathy secondary to rheumatoid arthritis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4077943,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "276177000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Thyroid eye disease",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4102503,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "193253000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Myopathy due to Sjögren's disease",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4107913,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "193250002",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Myopathy due to rheumatoid arthritis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4116142,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "201727001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Arthropathy in ulcerative colitis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4132809,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "410796000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Juvenile seropositive polyarthritis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4132810,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "410797009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Juvenile seronegative polyarthritis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4137275,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "31996006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Vasculitis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4140462,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "427020007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Cerebral vasculitis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4145240,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "307755009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Renal tubulo-interstitial disorder in systemic lupus erythematosus",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4211939,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "416666007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Anterior uveitis in juvenile idiopathic arthritis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4219859,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "397856003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Systemic lupus erythematosus-related syndrome",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4219879,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "400069004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Nevoid psoriasis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4225691,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "404908004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Toxic megacolon due to ulcerative colitis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4232076,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "353295004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Graves' disease",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4253901,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "410795001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Juvenile rheumatoid arthritis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4269448,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "36471000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Dilated cardiomyopathy secondary to systemic lupus erythematosus",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4297650,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "402431009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Cutaneous atrophy due to rheumatoid arthritis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4300204,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "402865003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Systemic lupus erythematosus-associated antiphospholipid syndrome",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4319305,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "95332009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Rash of systemic lupus erythematosus",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4330635,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "431707004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Deformity of wrist due to rheumatoid arthritis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4334806,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "433228003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Deformity of foot due to rheumatoid arthritis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 37016279,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "308751000119106",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Glomerular disease due to systemic lupus erythematosus",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 37110681,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "724996005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Lumbosacral plexopathy due to vasculitis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 37116301,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "732966008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Secondary autoimmune hemolytic anemia co-occurrent and due to ulcerative colitis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 37117740,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "732960002",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Secondary autoimmune hemolytic anemia co-occurrent and due to systemic lupus erythematosus",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42539357,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "762352004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Demyelination due to systemic vasculitis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 44784474,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "698626001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Dementia associated with multiple sclerosis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45757061,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "103681000119108",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Restrictive strabismus due to Graves disease",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45757069,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "104461000119104",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Ophthalmoplegia due to Graves disease",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45766237,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "703355003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Pulmonary hypertension due to vasculitis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 46269952,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "1092861000119101",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Fistula of intestine due to ulcerative colitis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 46273369,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "72181000119109",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Endocarditis due to systemic lupus erythematosus",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 46273442,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "96531000119109",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Deformity of hand due to rheumatoid arthritis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 46273477,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "1092851000119103",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Complication due to ulcerative colitis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 46273478,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "1092881000119105",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Rectal hemorrhage due to ulcerative colitis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 46274082,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "1092871000119107",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Intestinal obstruction due to ulcerative colitis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "No major autoimmune disorders (RA, MS, Psoriasis, SLE, CD, UC, Addisons, Graves, Sjogren, Myasthenia Gravis, Vasculitis, Celiac)",
+      "id": 14
+    },
+    {
+      "expression": {"items": [{
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4212540,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "328383001",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Chronic liver disease",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      }]},
+      "name": "Chronic Liver Disease",
+      "id": 15
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 435227,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "70241007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Nutritional deficiency disorder",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4181204,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "363246002",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Nutritional deficiency associated condition",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 35622258,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "763626009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Intellectual disability due to nutritional deficiency",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4101286,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "190674005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Sequelae of malnutrition and other nutritional deficiencies",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 434622,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "267513007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Deficiency anemias",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4280354,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "66612000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Nutritional anemia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 436070,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "34713006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Vitamin D deficiency",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 436658,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "85670002",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Vitamin deficiency",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4146209,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "35240004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Iron deficiency",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "Nutritional deficiency (mostly malnutrition)",
+      "id": 16
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4024671,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "1963002",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Paroxysmal nocturnal hemoglobinuria",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40481388,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "441990004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Thrombophilia due to paroxysmal nocturnal hemoglobinuria",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "Paroxysmal nocturnal hemoglobinuria",
+      "id": 18
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 197253,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "111407006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Hemolytic uremic syndrome",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4159966,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "373420004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Upshaw-Schulman syndrome",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 36674324,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "772169008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Hemolytic uremic syndrome suspected",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Context-dependent",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "Hemolytic uremic syndrome",
+      "id": 19
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 313800,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "126729006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Thrombotic microangiopathy",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4198102,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "51071000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Microangiopathic hemolytic anemia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "Thrombotic microangiopathy",
+      "id": 20
+    },
+    {
+      "expression": {"items": [{
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4316372,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "95605009",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "HELLP syndrome",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      }]},
+      "name": "HELLP syndrome",
+      "id": 21
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4030264,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "128831004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Chronic myelomonocytic leukemia",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Morph Abnormality",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4295651,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "385389007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Lymphoma stage finding",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4043444,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "167922001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Bone marrow erythropoiesis hyperplasia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4057594,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "167923006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Erythroid hypoplasia of bone marrow",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 37016161,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "127911000119105",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Light chain nephropathy due to multiple myeloma",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4056992,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "167928002",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Bone marrow myeloid hypoplasia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4043445,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "167927007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Bone marrow myeloid hyperplasia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4323972,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "70958007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Plasma cell hyperplasia of bone marrow",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 36402787,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "9761/3-C42.0",
+            "VOCABULARY_ID": "ICDO3",
+            "CONCEPT_NAME": "Waldenstrom macroglobulinemia of blood",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "ICDO Condition",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 432571,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "118600007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Malignant lymphoma",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4161665,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "399600009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Lymphoma finding",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4041104,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "118612006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Malignant histiocytosis (clinical)",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 36402625,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "9762/3-C42.0",
+            "VOCABULARY_ID": "ICDO3",
+            "CONCEPT_NAME": "Heavy chain disease, NOS, of blood",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "ICDO Condition",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4156433,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "370569000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Myelosuppression",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4241295,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "369767007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "High grade (lymphoma)",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4219140,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "417250005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Bone marrow granulocytic aplasia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 317510,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "93143009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Leukemia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4215820,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "416995001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Hypocellular bone marrow",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4224628,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "402453006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Amyloid light chain amyloidosis due to multiple myeloma",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4347562,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "240794006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Splenic schistosomal giant cell lymphoma",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4161138,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "399570001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Surgical margin uninvolved by lymphoma",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4058706,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "161436008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "History of leukemia",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Context-dependent",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 37206728,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "786855003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Monoclonal B-cell lymphocytosis chronic lymphocytic leukemia-type",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 37204530,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "783211008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Non-chronic lymphocytic leukemia monoclonal B-cell lymphocytosis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45767656,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "705127009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Gingivitis due to leukemia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4264693,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "397009000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Mast cell malignancy",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4043713,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "230586003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Neuropathy due to multiple myeloma",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4301780,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "404156009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Leukemic infiltration of skin",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4301659,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "404105000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Lymphomatoid papulosis type C (anaplastic large-cell lymphoma-like)",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4221907,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "420890002",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Precursor T cell lymphoblastic leukemia/lymphoblastic lymphoma",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 437233,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "109989006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Multiple myeloma",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4131124,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "127035006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Bone marrow disorder",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 36402821,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "9764/3-C42.0",
+            "VOCABULARY_ID": "ICDO3",
+            "CONCEPT_NAME": "Immunoproliferative small intestinal disease of blood",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "ICDO Condition",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4161560,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "399545001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Surgical distal margin involved by lymphoma",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 37110403,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "724649000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Langerhans cell sarcoma",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4161020,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "399457008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Surgical circumferential margin involved by lymphoma",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4164159,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "399676002",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Surgical margin involvement by lymphoma cannot be assessed",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "Tumors of hematopoietic cells including lymphoma, leukemia, myeloma and related",
+      "id": 23
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 432881,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "127034005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Pancytopenia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4131124,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "127035006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Bone marrow disorder",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "Pancytopenia & bone marrow disorder",
+      "id": 24
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 36715585,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "721303001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Refractory neutropenia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 320073,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "165517008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Neutropenia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42872951,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "450946009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Refractory neutropenia",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Morph Abnormality",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 435224,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "84828003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Leukopenia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 440689,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "17182001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Agranulocytosis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45766061,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "703148008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Periodontitis associated with chronic familial neutropenia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "Neutropenia, Agranulocytosis or Leukopenia",
+      "id": 25
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 37393856,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "1022551000000104",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Neutrophil count",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Observable Entity",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4148615,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "30630007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Neutrophil count",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 3017732,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "26499-4",
+            "VOCABULARY_ID": "LOINC",
+            "CONCEPT_NAME": "Neutrophils [#/volume] in Blood",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Lab Test",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 3013650,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "751-8",
+            "VOCABULARY_ID": "LOINC",
+            "CONCEPT_NAME": "Neutrophils [#/volume] in Blood by Automated count",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Lab Test",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 3017501,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "753-4",
+            "VOCABULARY_ID": "LOINC",
+            "CONCEPT_NAME": "Neutrophils [#/volume] in Blood by Manual count",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Lab Test",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "Neutrophil Absolute Count",
+      "id": 26
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2617149,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "EB",
+            "VOCABULARY_ID": "HCPCS",
+            "CONCEPT_NAME": "Erythropoetic stimulating agent (esa) administered to treat anemia due to anti-cancer radiotherapy",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "HCPCS Modifier",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 36716029,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "721840000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Hyperuricemia, anemia, renal failure syndrome",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2617148,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "EA",
+            "VOCABULARY_ID": "HCPCS",
+            "CONCEPT_NAME": "Erythropoetic stimulating agent (esa) administered to treat anemia due to anti-cancer chemotherapy",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "HCPCS Modifier",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4029669,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "128846006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Refractory anemia with sideroblasts",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Morph Abnormality",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4120449,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "234345001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "von Jaksch's anemia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 35624756,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "767657005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Anemia due to and following chemotherapy",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4028718,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "128847002",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Refractory anemia with excess blasts",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Morph Abnormality",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 37017165,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "713388002",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "GATA binding protein 1 related thrombocytopenia with dyserythropoiesis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4144746,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "427306008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Hereditary hemoglobinopathy",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2617150,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "EC",
+            "VOCABULARY_ID": "HCPCS",
+            "CONCEPT_NAME": "Erythropoetic stimulating agent (esa) administered to treat anemia not due to anti-cancer radiotherapy or anti-cancer chemotherapy",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "HCPCS Modifier",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 44831063,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "281.8",
+            "VOCABULARY_ID": "ICD9CM",
+            "CONCEPT_NAME": "Anemia associated with other specified nutritional deficiency",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4105643,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "193213003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Myasthenic syndrome due to pernicious anemia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 37398911,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "691401000119104",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Anemia in chronic kidney disease stage 4",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 438869,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "56921004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Perinatal jaundice due to hereditary hemolytic anemia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4183718,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "43742007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Pericarditis associated with severe chronic anemia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 37395652,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "691411000119101",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Anemia in chronic kidney disease stage 5",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4125630,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "234402007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Chronic non-spherocytic hemolytic anemia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4217370,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "71988008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Aase syndrome",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4267432,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "62574001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Erythropenia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 36680584,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "778006008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Autosomal dominant aplasia and myelodysplasia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 37018722,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "713496008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Anemia caused by zidovudine",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4295183,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "38589006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Mixed hemoglobin disorder",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4028717,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "128845005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Refractory anemia",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Morph Abnormality",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 44783626,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "697908003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Pulmonary arterial hypertension associated with chronic hemolytic anemia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4159748,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "371104006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Hand-foot syndrome in sickle cell anemia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4051681,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "124961001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Reticulocytopenia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 37017132,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "713349004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Anemia co-occurrent with human immunodeficiency virus infection",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4029670,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "128848007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Refractory anemia with excess blasts in transformation",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Morph Abnormality",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4006467,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "111570005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Anemia due to infection",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40478891,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "444271000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Erythropoietin resistance in anemia of chronic kidney disease",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 36715584,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "721302006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Refractory anemia with ringed sideroblasts associated with marked thrombocytosis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "Anemia or Reticulocytopenia",
+      "id": 27
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 3000963,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "718-7",
+            "VOCABULARY_ID": "LOINC",
+            "CONCEPT_NAME": "Hemoglobin [Mass/volume] in Blood",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Lab Test",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 3027484,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "20509-6",
+            "VOCABULARY_ID": "LOINC",
+            "CONCEPT_NAME": "Hemoglobin [Mass/volume] in Blood by calculation",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Lab Test",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "Hemoglobin measurement",
+      "id": 28
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 3009542,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "20570-8",
+            "VOCABULARY_ID": "LOINC",
+            "CONCEPT_NAME": "Hematocrit [Volume Fraction] of Blood",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Lab Test",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 3034976,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "41654-5",
+            "VOCABULARY_ID": "LOINC",
+            "CONCEPT_NAME": "Hematocrit [Volume Fraction] of Venous blood",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Lab Test",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 3028813,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "42908-4",
+            "VOCABULARY_ID": "LOINC",
+            "CONCEPT_NAME": "Hematocrit [Volume Fraction] of Capillary blood",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Lab Test",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 3019909,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "4545-0",
+            "VOCABULARY_ID": "LOINC",
+            "CONCEPT_NAME": "Hematocrit [Volume Fraction] of Blood by Centrifugation",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Lab Test",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 3050746,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "48703-3",
+            "VOCABULARY_ID": "LOINC",
+            "CONCEPT_NAME": "Hematocrit [Volume Fraction] of Blood by Estimated",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Lab Test",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42869584,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "71829-6",
+            "VOCABULARY_ID": "LOINC",
+            "CONCEPT_NAME": "Hematocrit [Pure volume fraction] of Venous blood",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Lab Test",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 3023314,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "4544-3",
+            "VOCABULARY_ID": "LOINC",
+            "CONCEPT_NAME": "Hematocrit [Volume Fraction] of Blood by Automated count",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Lab Test",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42869588,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "71833-8",
+            "VOCABULARY_ID": "LOINC",
+            "CONCEPT_NAME": "Hematocrit [Pure volume fraction] of Blood by Automated count",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Lab Test",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4016241,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "104139004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Hematocrit, spun microhematocrit method",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4151358,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "28317006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Hematocrit determination",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4097621,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "250314004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Platelet hematocrit measurement",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2212641,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "85013",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Blood count; spun microhematocrit",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2212642,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "85014",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Blood count; hematocrit (Hct)",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "Hematocrit measurement",
+      "id": 29
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4103532,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "2897005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Immune thrombocytopenia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4119134,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "302873008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Thrombocytopenic purpura",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40479556,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "441511006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "History of immune thrombocytopenia",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Context-dependent",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "Immune Thrombocytopenia",
+      "id": 30
+    }
+  ],
+  "EndStrategy": {"DateOffset": {
+    "DateField": "EndDate",
+    "Offset": 180
+  }},
+  "cdmVersionRange": ">=5.0.0",
+  "CensoringCriteria": [
+    {"Measurement": {
+      "MeasurementTypeExclude": false,
+      "CodesetId": 7,
+      "ValueAsNumber": {
+        "Op": "bt",
+        "Extent": 450,
+        "Value": 150
+      },
+      "Unit": [
+        {
+          "INVALID_REASON_CAPTION": "Unknown",
+          "CONCEPT_ID": 8848,
+          "STANDARD_CONCEPT": null,
+          "CONCEPT_CODE": "10*3/uL",
+          "VOCABULARY_ID": "UCUM",
+          "CONCEPT_NAME": "thousand per microliter",
+          "DOMAIN_ID": "Unit",
+          "STANDARD_CONCEPT_CAPTION": "Unknown",
+          "CONCEPT_CLASS_ID": null,
+          "INVALID_REASON": null
+        },
+        {
+          "INVALID_REASON_CAPTION": "Unknown",
+          "CONCEPT_ID": 8961,
+          "STANDARD_CONCEPT": null,
+          "CONCEPT_CODE": "10*3/mm3",
+          "VOCABULARY_ID": "UCUM",
+          "CONCEPT_NAME": "thousand per cubic millimeter",
+          "DOMAIN_ID": "Unit",
+          "STANDARD_CONCEPT_CAPTION": "Unknown",
+          "CONCEPT_CLASS_ID": null,
+          "INVALID_REASON": null
+        },
+        {
+          "INVALID_REASON_CAPTION": "Unknown",
+          "CONCEPT_ID": 9444,
+          "STANDARD_CONCEPT": null,
+          "CONCEPT_CODE": "10*9/L",
+          "VOCABULARY_ID": "UCUM",
+          "CONCEPT_NAME": "billion per liter",
+          "DOMAIN_ID": "Unit",
+          "STANDARD_CONCEPT_CAPTION": "Unknown",
+          "CONCEPT_CLASS_ID": null,
+          "INVALID_REASON": null
+        },
+        {
+          "INVALID_REASON_CAPTION": "Unknown",
+          "CONCEPT_ID": 8816,
+          "STANDARD_CONCEPT": null,
+          "CONCEPT_CODE": "10*6/mL",
+          "VOCABULARY_ID": "UCUM",
+          "CONCEPT_NAME": "million per milliliter",
+          "DOMAIN_ID": "Unit",
+          "STANDARD_CONCEPT_CAPTION": "Unknown",
+          "CONCEPT_CLASS_ID": null,
+          "INVALID_REASON": null
+        },
+        {
+          "INVALID_REASON_CAPTION": "Unknown",
+          "CONCEPT_ID": 44777588,
+          "STANDARD_CONCEPT": null,
+          "CONCEPT_CODE": "10*9.{cellls}/L",
+          "VOCABULARY_ID": "UCUM",
+          "CONCEPT_NAME": "billion cells per liter",
+          "DOMAIN_ID": "Unit",
+          "STANDARD_CONCEPT_CAPTION": "Unknown",
+          "CONCEPT_CLASS_ID": null,
+          "INVALID_REASON": null
+        }
+      ]
+    }},
+    {"ConditionOccurrence": {
+      "ConditionTypeExclude": false,
+      "CodesetId": 10
+    }}
+  ],
+  "QualifiedLimit": {"Type": "First"},
+  "InclusionRules": [
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {
+              "Days": 365,
+              "Coeff": -1
+            },
+            "End": {
+              "Days": 1,
+              "Coeff": -1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": false,
+          "Criteria": {"ConditionOccurrence": {
+            "ConditionTypeExclude": false,
+            "CodesetId": 30
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "365 days  washout period "
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {"Coeff": -1},
+            "End": {
+              "Days": 7,
+              "Coeff": 1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": true,
+          "Criteria": {"ConditionOccurrence": {
+            "ConditionTypeExclude": false,
+            "CodesetId": 9
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "No congenital or genetic thrombocytopenia"
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {
+              "Days": 0,
+              "Coeff": -1
+            },
+            "End": {
+              "Days": 0,
+              "Coeff": 1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": true,
+          "Criteria": {"Measurement": {
+            "MeasurementTypeExclude": false,
+            "CodesetId": 7,
+            "ValueAsNumber": {
+              "Op": "bt",
+              "Extent": 450,
+              "Value": 101
+            },
+            "Unit": [
+              {
+                "INVALID_REASON_CAPTION": "Unknown",
+                "CONCEPT_ID": 8848,
+                "STANDARD_CONCEPT": null,
+                "CONCEPT_CODE": "10*3/uL",
+                "VOCABULARY_ID": "UCUM",
+                "CONCEPT_NAME": "thousand per microliter",
+                "DOMAIN_ID": "Unit",
+                "STANDARD_CONCEPT_CAPTION": "Unknown",
+                "CONCEPT_CLASS_ID": null,
+                "INVALID_REASON": null
+              },
+              {
+                "INVALID_REASON_CAPTION": "Unknown",
+                "CONCEPT_ID": 8961,
+                "STANDARD_CONCEPT": null,
+                "CONCEPT_CODE": "10*3/mm3",
+                "VOCABULARY_ID": "UCUM",
+                "CONCEPT_NAME": "thousand per cubic millimeter",
+                "DOMAIN_ID": "Unit",
+                "STANDARD_CONCEPT_CAPTION": "Unknown",
+                "CONCEPT_CLASS_ID": null,
+                "INVALID_REASON": null
+              },
+              {
+                "INVALID_REASON_CAPTION": "Unknown",
+                "CONCEPT_ID": 9444,
+                "STANDARD_CONCEPT": null,
+                "CONCEPT_CODE": "10*9/L",
+                "VOCABULARY_ID": "UCUM",
+                "CONCEPT_NAME": "billion per liter",
+                "DOMAIN_ID": "Unit",
+                "STANDARD_CONCEPT_CAPTION": "Unknown",
+                "CONCEPT_CLASS_ID": null,
+                "INVALID_REASON": null
+              },
+              {
+                "INVALID_REASON_CAPTION": "Unknown",
+                "CONCEPT_ID": 8816,
+                "STANDARD_CONCEPT": null,
+                "CONCEPT_CODE": "10*6/mL",
+                "VOCABULARY_ID": "UCUM",
+                "CONCEPT_NAME": "million per milliliter",
+                "DOMAIN_ID": "Unit",
+                "STANDARD_CONCEPT_CAPTION": "Unknown",
+                "CONCEPT_CLASS_ID": null,
+                "INVALID_REASON": null
+              },
+              {
+                "INVALID_REASON_CAPTION": "Unknown",
+                "CONCEPT_ID": 44777588,
+                "STANDARD_CONCEPT": null,
+                "CONCEPT_CODE": "10*9.{cellls}/L",
+                "VOCABULARY_ID": "UCUM",
+                "CONCEPT_NAME": "billion cells per liter",
+                "DOMAIN_ID": "Unit",
+                "STANDARD_CONCEPT_CAPTION": "Unknown",
+                "CONCEPT_CLASS_ID": null,
+                "INVALID_REASON": null
+              }
+            ]
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "No Platelet count > 100 on index date"
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {
+              "Days": 0,
+              "Coeff": -1
+            },
+            "End": {
+              "Days": 0,
+              "Coeff": 1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": true,
+          "Criteria": {"ConditionOccurrence": {
+            "ConditionTypeExclude": false,
+            "CodesetId": 10
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "No thrombocytosis on index date"
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {"Coeff": -1},
+            "End": {
+              "Days": 7,
+              "Coeff": 1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": true,
+          "Criteria": {"ConditionOccurrence": {
+            "ConditionTypeExclude": false,
+            "CodesetId": 13
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "No Hypersplenism"
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {"Coeff": -1},
+            "End": {
+              "Days": 7,
+              "Coeff": 1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": true,
+          "Criteria": {"ConditionOccurrence": {
+            "ConditionTypeExclude": false,
+            "CodesetId": 12
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "No Antiphospholipid syndrome"
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {"Coeff": -1},
+            "End": {
+              "Days": 7,
+              "Coeff": 1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": true,
+          "Criteria": {"ConditionOccurrence": {
+            "ConditionTypeExclude": false,
+            "CodesetId": 18
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "No Paroxysmal nocturnal hemoglobinuria"
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {"Coeff": -1},
+            "End": {
+              "Days": 7,
+              "Coeff": 1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": true,
+          "Criteria": {"ConditionOccurrence": {
+            "ConditionTypeExclude": false,
+            "CodesetId": 19
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "No Hemolytic uremic syndrome"
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {"Coeff": -1},
+            "End": {
+              "Days": 7,
+              "Coeff": 1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": true,
+          "Criteria": {"ConditionOccurrence": {
+            "ConditionTypeExclude": false,
+            "CodesetId": 20
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "No Thrombotic microangiopathy"
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {"Coeff": -1},
+            "End": {
+              "Days": 7,
+              "Coeff": 1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": true,
+          "Criteria": {"ConditionOccurrence": {
+            "ConditionTypeExclude": false,
+            "CodesetId": 14
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "No major autoimmune disorders (RA, MS, Psoriasis, SLE, CD, UC, Addisons, Graves, Sjogren, Myasthenia Gravis, Vasculitis, Celiac)"
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {"Coeff": -1},
+            "End": {
+              "Days": 7,
+              "Coeff": 1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": true,
+          "Criteria": {"ConditionOccurrence": {
+            "ConditionTypeExclude": false,
+            "CodesetId": 15
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "No Chronic Liver Disease"
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {
+              "Days": 90,
+              "Coeff": -1
+            },
+            "End": {
+              "Days": 7,
+              "Coeff": 1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": true,
+          "Criteria": {"ConditionOccurrence": {
+            "ConditionTypeExclude": false,
+            "CodesetId": 21
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "No Pregnancy related HELLP syndrome (in past 3 months)"
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {"Coeff": -1},
+            "End": {
+              "Days": 7,
+              "Coeff": 1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": true,
+          "Criteria": {"ConditionOccurrence": {
+            "ConditionTypeExclude": false,
+            "CodesetId": 23
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "No tumors of hematopoietic cells including lymphoma, leukemia, myeloma and related"
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {"Coeff": -1},
+            "End": {
+              "Days": 7,
+              "Coeff": 1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": true,
+          "Criteria": {"ConditionOccurrence": {
+            "ConditionTypeExclude": false,
+            "CodesetId": 16
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "No Nutritional deficiency"
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {
+              "Days": 7,
+              "Coeff": -1
+            },
+            "End": {
+              "Days": 7,
+              "Coeff": 1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": true,
+          "Criteria": {"ConditionOccurrence": {
+            "ConditionTypeExclude": false,
+            "CodesetId": 24
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "No Pancytopenia or bone marrow disorder diagnosis within 7 days"
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {
+              "Days": 7,
+              "Coeff": -1
+            },
+            "End": {
+              "Days": 7,
+              "Coeff": 1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": true,
+          "Criteria": {"ConditionOccurrence": {
+            "ConditionTypeExclude": false,
+            "CodesetId": 25
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "No Neutropenia, Agranulocytosis diagnosis within 7 days"
+    },
+    {
+      "expression": {
+        "CriteriaList": [
+          {
+            "RestrictVisit": false,
+            "StartWindow": {
+              "UseEventEnd": false,
+              "Start": {
+                "Days": 7,
+                "Coeff": -1
+              },
+              "End": {
+                "Days": 7,
+                "Coeff": -1
+              },
+              "UseIndexEnd": false
+            },
+            "IgnoreObservationPeriod": true,
+            "Criteria": {"Measurement": {
+              "MeasurementTypeExclude": false,
+              "CodesetId": 26,
+              "ValueAsNumber": {
+                "Op": "bt",
+                "Extent": 1.4990000000000001101341,
+                "Value": 0.010000000000000000208167
+              },
+              "RangeLow": {
+                "Op": "bt",
+                "Extent": 4,
+                "Value": 1.5
+              },
+              "Unit": [
+                {
+                  "INVALID_REASON_CAPTION": "Unknown",
+                  "CONCEPT_ID": 9444,
+                  "STANDARD_CONCEPT": null,
+                  "CONCEPT_CODE": "10*9/L",
+                  "VOCABULARY_ID": "UCUM",
+                  "CONCEPT_NAME": "billion per liter",
+                  "DOMAIN_ID": "Unit",
+                  "STANDARD_CONCEPT_CAPTION": "Unknown",
+                  "CONCEPT_CLASS_ID": null,
+                  "INVALID_REASON": null
+                },
+                {
+                  "INVALID_REASON_CAPTION": "Unknown",
+                  "CONCEPT_ID": 8848,
+                  "STANDARD_CONCEPT": null,
+                  "CONCEPT_CODE": "10*3/uL",
+                  "VOCABULARY_ID": "UCUM",
+                  "CONCEPT_NAME": "thousand per microliter",
+                  "DOMAIN_ID": "Unit",
+                  "STANDARD_CONCEPT_CAPTION": "Unknown",
+                  "CONCEPT_CLASS_ID": null,
+                  "INVALID_REASON": null
+                },
+                {
+                  "INVALID_REASON_CAPTION": "Unknown",
+                  "CONCEPT_ID": 8816,
+                  "STANDARD_CONCEPT": null,
+                  "CONCEPT_CODE": "10*6/mL",
+                  "VOCABULARY_ID": "UCUM",
+                  "CONCEPT_NAME": "million per milliliter",
+                  "DOMAIN_ID": "Unit",
+                  "STANDARD_CONCEPT_CAPTION": "Unknown",
+                  "CONCEPT_CLASS_ID": null,
+                  "INVALID_REASON": null
+                },
+                {
+                  "INVALID_REASON_CAPTION": "Unknown",
+                  "CONCEPT_ID": 8961,
+                  "STANDARD_CONCEPT": null,
+                  "CONCEPT_CODE": "10*3/mm3",
+                  "VOCABULARY_ID": "UCUM",
+                  "CONCEPT_NAME": "thousand per cubic millimeter",
+                  "DOMAIN_ID": "Unit",
+                  "STANDARD_CONCEPT_CAPTION": "Unknown",
+                  "CONCEPT_CLASS_ID": null,
+                  "INVALID_REASON": null
+                },
+                {
+                  "INVALID_REASON_CAPTION": "Unknown",
+                  "CONCEPT_ID": 44777588,
+                  "STANDARD_CONCEPT": null,
+                  "CONCEPT_CODE": "10*9.{cellls}/L",
+                  "VOCABULARY_ID": "UCUM",
+                  "CONCEPT_NAME": "billion cells per liter",
+                  "DOMAIN_ID": "Unit",
+                  "STANDARD_CONCEPT_CAPTION": "Unknown",
+                  "CONCEPT_CLASS_ID": null,
+                  "INVALID_REASON": null
+                }
+              ]
+            }},
+            "Occurrence": {
+              "Type": 0,
+              "IsDistinct": false,
+              "Count": 0
+            }
+          },
+          {
+            "RestrictVisit": false,
+            "StartWindow": {
+              "UseEventEnd": false,
+              "Start": {
+                "Days": 7,
+                "Coeff": -1
+              },
+              "End": {
+                "Days": 7,
+                "Coeff": 1
+              },
+              "UseIndexEnd": false
+            },
+            "IgnoreObservationPeriod": true,
+            "Criteria": {"Measurement": {
+              "MeasurementTypeExclude": false,
+              "CodesetId": 26,
+              "ValueAsNumber": {
+                "Op": "bt",
+                "Extent": 1500,
+                "Value": 10
+              },
+              "Unit": [
+                {
+                  "INVALID_REASON_CAPTION": "Unknown",
+                  "CONCEPT_ID": 8784,
+                  "STANDARD_CONCEPT": null,
+                  "CONCEPT_CODE": "{cells}/uL",
+                  "VOCABULARY_ID": "UCUM",
+                  "CONCEPT_NAME": "cells per microliter",
+                  "DOMAIN_ID": "Unit",
+                  "STANDARD_CONCEPT_CAPTION": "Unknown",
+                  "CONCEPT_CLASS_ID": null,
+                  "INVALID_REASON": null
+                },
+                {
+                  "INVALID_REASON_CAPTION": "Unknown",
+                  "CONCEPT_ID": 8647,
+                  "STANDARD_CONCEPT": null,
+                  "CONCEPT_CODE": "/uL",
+                  "VOCABULARY_ID": "UCUM",
+                  "CONCEPT_NAME": "per microliter",
+                  "DOMAIN_ID": "Unit",
+                  "STANDARD_CONCEPT_CAPTION": "Unknown",
+                  "CONCEPT_CLASS_ID": null,
+                  "INVALID_REASON": null
+                }
+              ]
+            }},
+            "Occurrence": {
+              "Type": 0,
+              "IsDistinct": false,
+              "Count": 0
+            }
+          }
+        ],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "No low neutrophil count within 7 days"
+    },
+    {
+      "expression": {
+        "CriteriaList": [
+          {
+            "RestrictVisit": false,
+            "StartWindow": {
+              "UseEventEnd": false,
+              "Start": {
+                "Days": 7,
+                "Coeff": -1
+              },
+              "End": {
+                "Days": 7,
+                "Coeff": 1
+              },
+              "UseIndexEnd": false
+            },
+            "IgnoreObservationPeriod": true,
+            "Criteria": {"ConditionOccurrence": {
+              "ConditionTypeExclude": false,
+              "CodesetId": 27
+            }},
+            "Occurrence": {
+              "Type": 0,
+              "IsDistinct": false,
+              "Count": 0
+            }
+          },
+          {
+            "RestrictVisit": false,
+            "StartWindow": {
+              "UseEventEnd": false,
+              "Start": {
+                "Days": 7,
+                "Coeff": -1
+              },
+              "End": {
+                "Days": 7,
+                "Coeff": 1
+              },
+              "UseIndexEnd": false
+            },
+            "IgnoreObservationPeriod": true,
+            "Criteria": {"Observation": {
+              "ObservationTypeExclude": false,
+              "CodesetId": 27
+            }},
+            "Occurrence": {
+              "Type": 0,
+              "IsDistinct": false,
+              "Count": 0
+            }
+          }
+        ],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "No Anemia diagnosis within 7 days"
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {
+              "Days": 7,
+              "Coeff": -1
+            },
+            "End": {
+              "Days": 7,
+              "Coeff": 1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": true,
+          "Criteria": {"Measurement": {
+            "MeasurementTypeExclude": false,
+            "CodesetId": 28,
+            "ValueAsNumber": {
+              "Op": "bt",
+              "Extent": 11,
+              "Value": 4
+            },
+            "Unit": [
+              {
+                "INVALID_REASON_CAPTION": "Unknown",
+                "CONCEPT_ID": 4121395,
+                "STANDARD_CONCEPT": null,
+                "CONCEPT_CODE": "258795003",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_NAME": "g/dL",
+                "DOMAIN_ID": "Unit",
+                "STANDARD_CONCEPT_CAPTION": "Unknown",
+                "CONCEPT_CLASS_ID": null,
+                "INVALID_REASON": null
+              },
+              {
+                "INVALID_REASON_CAPTION": "Unknown",
+                "CONCEPT_ID": 8713,
+                "STANDARD_CONCEPT": null,
+                "CONCEPT_CODE": "g/dL",
+                "VOCABULARY_ID": "UCUM",
+                "CONCEPT_NAME": "gram per deciliter",
+                "DOMAIN_ID": "Unit",
+                "STANDARD_CONCEPT_CAPTION": "Unknown",
+                "CONCEPT_CLASS_ID": null,
+                "INVALID_REASON": null
+              },
+              {
+                "INVALID_REASON_CAPTION": "Unknown",
+                "CONCEPT_ID": 8950,
+                "STANDARD_CONCEPT": null,
+                "CONCEPT_CODE": "g/dL{calc}",
+                "VOCABULARY_ID": "UCUM",
+                "CONCEPT_NAME": "gram per deciliter calculated",
+                "DOMAIN_ID": "Unit",
+                "STANDARD_CONCEPT_CAPTION": "Unknown",
+                "CONCEPT_CLASS_ID": null,
+                "INVALID_REASON": null
+              }
+            ]
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "No low Hemoglobin measurement in blood within 7 days"
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {
+              "Days": 7,
+              "Coeff": -1
+            },
+            "End": {
+              "Days": 7,
+              "Coeff": 1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": true,
+          "Criteria": {"Measurement": {
+            "MeasurementTypeExclude": false,
+            "CodesetId": 29,
+            "Unit": [{
+              "INVALID_REASON_CAPTION": "Unknown",
+              "CONCEPT_ID": 8554,
+              "STANDARD_CONCEPT": null,
+              "CONCEPT_CODE": "%",
+              "VOCABULARY_ID": "UCUM",
+              "CONCEPT_NAME": "percent",
+              "DOMAIN_ID": "Unit",
+              "STANDARD_CONCEPT_CAPTION": "Unknown",
+              "CONCEPT_CLASS_ID": null,
+              "INVALID_REASON": null
+            }]
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "No low Hematocrit measurement in blood within 7 days"
+    }
+  ],
+  "PrimaryCriteria": {
+    "CriteriaList": [{"ConditionOccurrence": {
+      "ConditionTypeExclude": false,
+      "CodesetId": 30
+    }}],
+    "PrimaryCriteriaLimit": {"Type": "All"},
+    "ObservationWindow": {
+      "PostDays": 0,
+      "PriorDays": 0
+    }
+  }
+}

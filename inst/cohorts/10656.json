@@ -1,0 +1,573 @@
+{
+  "ExpressionLimit": {"Type": "First"},
+  "CollapseSettings": {
+    "CollapseType": "ERA",
+    "EraPad": 0
+  },
+  "CensorWindow": {},
+  "ConceptSets": [
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4006469,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "111584000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Reticular dysgenesis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 37397537,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "718196002",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Beta thalassemia X-linked thrombocytopenia syndrome",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "Congenital or genetic causes for thrombocytopenia",
+      "id": 1
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4267147,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "61928009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Platelet count",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 3031586,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "49497-1",
+            "VOCABULARY_ID": "LOINC",
+            "CONCEPT_NAME": "Platelets [#/volume] in Blood by Estimate",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Lab Test",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 3050583,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "53800-9",
+            "VOCABULARY_ID": "LOINC",
+            "CONCEPT_NAME": "Platelets panel - Blood by Automated count",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Lab Test",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 3007461,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "26515-7",
+            "VOCABULARY_ID": "LOINC",
+            "CONCEPT_NAME": "Platelets [#/volume] in Blood",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Lab Test",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 37393863,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "1022651000000100",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Platelet count",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Observable Entity",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "Platelet measurement",
+      "id": 7
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 313800,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "126729006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Thrombotic microangiopathy",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4198102,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "51071000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Microangiopathic hemolytic anemia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "Thrombotic microangiopathy or Microangiopathic hemolytic anemia",
+      "id": 17
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2212705,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "85397",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Coagulation and fibrinolysis, functional activity, not otherwise specified (eg, ADAMTS-13), each analyte",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 1314273,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "121191",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "rituximab",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4182536,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "5447007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Transfusion",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4049372,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "20720000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Plasmapheresis",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4022139,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "116762002",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Administration of blood product",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "Treatment or investigation for TMA",
+      "id": 20
+    }
+  ],
+  "EndStrategy": {"DateOffset": {
+    "DateField": "EndDate",
+    "Offset": 7
+  }},
+  "cdmVersionRange": ">=5.0.0",
+  "CensoringCriteria": [{"Measurement": {
+    "MeasurementTypeExclude": false,
+    "CodesetId": 7,
+    "ValueAsNumber": {
+      "Op": "bt",
+      "Extent": 450,
+      "Value": 151
+    },
+    "Unit": [
+      {
+        "INVALID_REASON_CAPTION": "Unknown",
+        "CONCEPT_ID": 8848,
+        "STANDARD_CONCEPT": null,
+        "CONCEPT_CODE": "10*3/uL",
+        "VOCABULARY_ID": "UCUM",
+        "CONCEPT_NAME": "thousand per microliter",
+        "DOMAIN_ID": "Unit",
+        "STANDARD_CONCEPT_CAPTION": "Unknown",
+        "CONCEPT_CLASS_ID": null,
+        "INVALID_REASON": null
+      },
+      {
+        "INVALID_REASON_CAPTION": "Unknown",
+        "CONCEPT_ID": 8961,
+        "STANDARD_CONCEPT": null,
+        "CONCEPT_CODE": "10*3/mm3",
+        "VOCABULARY_ID": "UCUM",
+        "CONCEPT_NAME": "thousand per cubic millimeter",
+        "DOMAIN_ID": "Unit",
+        "STANDARD_CONCEPT_CAPTION": "Unknown",
+        "CONCEPT_CLASS_ID": null,
+        "INVALID_REASON": null
+      },
+      {
+        "INVALID_REASON_CAPTION": "Unknown",
+        "CONCEPT_ID": 9444,
+        "STANDARD_CONCEPT": null,
+        "CONCEPT_CODE": "10*9/L",
+        "VOCABULARY_ID": "UCUM",
+        "CONCEPT_NAME": "billion per liter",
+        "DOMAIN_ID": "Unit",
+        "STANDARD_CONCEPT_CAPTION": "Unknown",
+        "CONCEPT_CLASS_ID": null,
+        "INVALID_REASON": null
+      },
+      {
+        "INVALID_REASON_CAPTION": "Unknown",
+        "CONCEPT_ID": 8816,
+        "STANDARD_CONCEPT": null,
+        "CONCEPT_CODE": "10*6/mL",
+        "VOCABULARY_ID": "UCUM",
+        "CONCEPT_NAME": "million per milliliter",
+        "DOMAIN_ID": "Unit",
+        "STANDARD_CONCEPT_CAPTION": "Unknown",
+        "CONCEPT_CLASS_ID": null,
+        "INVALID_REASON": null
+      }
+    ]
+  }}],
+  "QualifiedLimit": {"Type": "First"},
+  "InclusionRules": [
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {"Coeff": -1},
+            "End": {
+              "Days": 7,
+              "Coeff": 1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": true,
+          "Criteria": {"ConditionOccurrence": {
+            "ConditionTypeExclude": false,
+            "CodesetId": 1
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "No congenital or genetic thrombocytopenia"
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {
+              "Days": 0,
+              "Coeff": -1
+            },
+            "End": {
+              "Days": 0,
+              "Coeff": 1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": true,
+          "Criteria": {"Measurement": {
+            "MeasurementTypeExclude": false,
+            "ValueAsConcept": [
+              {
+                "INVALID_REASON_CAPTION": "Unknown",
+                "CONCEPT_ID": 8848,
+                "STANDARD_CONCEPT": null,
+                "CONCEPT_CODE": "10*3/uL",
+                "VOCABULARY_ID": "UCUM",
+                "CONCEPT_NAME": "thousand per microliter",
+                "DOMAIN_ID": "Unit",
+                "STANDARD_CONCEPT_CAPTION": "Unknown",
+                "CONCEPT_CLASS_ID": null,
+                "INVALID_REASON": null
+              },
+              {
+                "INVALID_REASON_CAPTION": "Unknown",
+                "CONCEPT_ID": 8961,
+                "STANDARD_CONCEPT": null,
+                "CONCEPT_CODE": "10*3/mm3",
+                "VOCABULARY_ID": "UCUM",
+                "CONCEPT_NAME": "thousand per cubic millimeter",
+                "DOMAIN_ID": "Unit",
+                "STANDARD_CONCEPT_CAPTION": "Unknown",
+                "CONCEPT_CLASS_ID": null,
+                "INVALID_REASON": null
+              },
+              {
+                "INVALID_REASON_CAPTION": "Unknown",
+                "CONCEPT_ID": 9444,
+                "STANDARD_CONCEPT": null,
+                "CONCEPT_CODE": "10*9/L",
+                "VOCABULARY_ID": "UCUM",
+                "CONCEPT_NAME": "billion per liter",
+                "DOMAIN_ID": "Unit",
+                "STANDARD_CONCEPT_CAPTION": "Unknown",
+                "CONCEPT_CLASS_ID": null,
+                "INVALID_REASON": null
+              },
+              {
+                "INVALID_REASON_CAPTION": "Unknown",
+                "CONCEPT_ID": 8816,
+                "STANDARD_CONCEPT": null,
+                "CONCEPT_CODE": "10*6/mL",
+                "VOCABULARY_ID": "UCUM",
+                "CONCEPT_NAME": "million per milliliter",
+                "DOMAIN_ID": "Unit",
+                "STANDARD_CONCEPT_CAPTION": "Unknown",
+                "CONCEPT_CLASS_ID": null,
+                "INVALID_REASON": null
+              }
+            ],
+            "CodesetId": 7,
+            "ValueAsNumber": {
+              "Op": "bt",
+              "Extent": 450,
+              "Value": 151
+            }
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "No Platelet count > 150 on index date",
+      "description": "Thrombocytopenia is a hallmark of this condition. Absence of thrombocytopenia makes this phenotype unlikely. Platelet count the lower limit of normal, i.e., 150000/microliter (for adults)the lower limit of normal, i.e., 150000/microliter (for adults)"
+    }
+  ],
+  "PrimaryCriteria": {
+    "CriteriaList": [
+      {"ConditionOccurrence": {
+        "ConditionTypeExclude": false,
+        "CodesetId": 17
+      }},
+      {"ProcedureOccurrence": {
+        "CorrelatedCriteria": {
+          "CriteriaList": [{
+            "RestrictVisit": false,
+            "StartWindow": {
+              "UseEventEnd": false,
+              "Start": {
+                "Days": 0,
+                "Coeff": 1
+              },
+              "End": {
+                "Days": 30,
+                "Coeff": 1
+              },
+              "UseIndexEnd": false
+            },
+            "IgnoreObservationPeriod": false,
+            "Criteria": {"ConditionOccurrence": {
+              "ConditionTypeExclude": false,
+              "CodesetId": 17
+            }},
+            "Occurrence": {
+              "Type": 2,
+              "IsDistinct": false,
+              "Count": 1
+            }
+          }],
+          "Type": "ALL",
+          "DemographicCriteriaList": [],
+          "Groups": []
+        },
+        "CodesetId": 20,
+        "ProcedureTypeExclude": false
+      }},
+      {"DrugExposure": {
+        "CorrelatedCriteria": {
+          "CriteriaList": [{
+            "RestrictVisit": false,
+            "StartWindow": {
+              "UseEventEnd": false,
+              "Start": {
+                "Days": 0,
+                "Coeff": -1
+              },
+              "End": {
+                "Days": 30,
+                "Coeff": 1
+              },
+              "UseIndexEnd": false
+            },
+            "IgnoreObservationPeriod": false,
+            "Criteria": {"ConditionOccurrence": {
+              "ConditionTypeExclude": false,
+              "CodesetId": 17
+            }},
+            "Occurrence": {
+              "Type": 2,
+              "IsDistinct": false,
+              "Count": 1
+            }
+          }],
+          "Type": "ALL",
+          "DemographicCriteriaList": [],
+          "Groups": []
+        },
+        "CodesetId": 20,
+        "DrugTypeExclude": false
+      }},
+      {"Measurement": {
+        "MeasurementTypeExclude": false,
+        "CorrelatedCriteria": {
+          "CriteriaList": [{
+            "RestrictVisit": false,
+            "StartWindow": {
+              "UseEventEnd": false,
+              "Start": {
+                "Days": 0,
+                "Coeff": -1
+              },
+              "End": {
+                "Days": 30,
+                "Coeff": 1
+              },
+              "UseIndexEnd": false
+            },
+            "IgnoreObservationPeriod": false,
+            "Criteria": {"ConditionOccurrence": {
+              "ConditionTypeExclude": false,
+              "CodesetId": 17
+            }},
+            "Occurrence": {
+              "Type": 2,
+              "IsDistinct": false,
+              "Count": 1
+            }
+          }],
+          "Type": "ALL",
+          "DemographicCriteriaList": [],
+          "Groups": []
+        },
+        "CodesetId": 20
+      }}
+    ],
+    "PrimaryCriteriaLimit": {"Type": "All"},
+    "ObservationWindow": {
+      "PostDays": 0,
+      "PriorDays": 0
+    }
+  }
+}

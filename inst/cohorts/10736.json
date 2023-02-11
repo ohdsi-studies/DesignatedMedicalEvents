@@ -1,0 +1,815 @@
+{
+  "ExpressionLimit": {"Type": "All"},
+  "CollapseSettings": {
+    "CollapseType": "ERA",
+    "EraPad": 0
+  },
+  "CensorWindow": {},
+  "ConceptSets": [
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 377889,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "15188001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Hearing loss",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 376793,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "111339003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Congenital anomaly of ear with impairment of hearing",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40484010,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "442535004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Unilateral conductive hearing loss",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Context-dependent",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 434046,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "194428008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Unilateral mixed conductive and sensorineural hearing loss with unrestricted hearing on the contralateral side",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 379831,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "425601005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Unilateral neural hearing loss",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 433496,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "425980006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Unilateral sensory hearing loss",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40659147,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "G8565",
+            "VOCABULARY_ID": "HCPCS",
+            "CONCEPT_NAME": "Verification and documentation of sudden or rapidly progressive hearing loss",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "HCPCS",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "Hearing loss ",
+      "id": 1
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4101079,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "300162007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Middle ear finding",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4113411,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "300194002",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Middle ear normal",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "Middle ear finding",
+      "id": 2
+    },
+    {
+      "expression": {"items": [{
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4134565,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "398171003",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Hearing examination",
+          "DOMAIN_ID": "Procedure",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Procedure",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      }]},
+      "name": "Hearing examination",
+      "id": 3
+    },
+    {
+      "expression": {"items": [{
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4335747,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "232297009",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Disorder of inner ear",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      }]},
+      "name": "Inner Ear Disorder",
+      "id": 4
+    },
+    {
+      "expression": {"items": [{
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 374053,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "79471008",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Sudden hearing loss",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      }]},
+      "name": "Sudden Hearing Loss",
+      "id": 5
+    },
+    {
+      "expression": {"items": [{
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 376793,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "111339003",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Congenital anomaly of ear with impairment of hearing",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      }]},
+      "name": "Congenital anomaly of ear with impairment of hearing",
+      "id": 6
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21605042,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "R01AD",
+            "VOCABULARY_ID": "ATC",
+            "CONCEPT_NAME": "Corticosteroids",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "ATC 4th",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21601607,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "C05AA",
+            "VOCABULARY_ID": "ATC",
+            "CONCEPT_NAME": "Corticosteroids",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "ATC 4th",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21605199,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "S03B",
+            "VOCABULARY_ID": "ATC",
+            "CONCEPT_NAME": "CORTICOSTEROIDS",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "ATC 3rd",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21605164,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "S02B",
+            "VOCABULARY_ID": "ATC",
+            "CONCEPT_NAME": "CORTICOSTEROIDS",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "ATC 3rd",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21602728,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "H02AB",
+            "VOCABULARY_ID": "ATC",
+            "CONCEPT_NAME": "Glucocorticoids",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "ATC 4th",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21600652,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "A07EA",
+            "VOCABULARY_ID": "ATC",
+            "CONCEPT_NAME": "Corticosteroids acting locally",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "ATC 4th",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "Corticosteroids systemic or topical",
+      "id": 8
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4060499,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "169068008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "CT of neck",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4125350,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "303653007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "CT of head",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4086261,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "241578008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "CT of cervical spine",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2799719,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "BW38",
+            "VOCABULARY_ID": "ICD10PCS",
+            "CONCEPT_NAME": "Imaging @ Anatomical Regions @ Magnetic Resonance Imaging (MRI) @ Head",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "ICD10PCS Hierarchy",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "Imaging of head area",
+      "id": 9
+    }
+  ],
+  "EndStrategy": {"DateOffset": {
+    "DateField": "StartDate",
+    "Offset": 30
+  }},
+  "cdmVersionRange": ">=5.0.0",
+  "CensoringCriteria": [],
+  "QualifiedLimit": {"Type": "First"},
+  "InclusionRules": [
+    {
+      "expression": {
+        "CriteriaList": [
+          {
+            "RestrictVisit": false,
+            "StartWindow": {
+              "UseEventEnd": false,
+              "Start": {
+                "Days": 365,
+                "Coeff": -1
+              },
+              "End": {
+                "Days": 1,
+                "Coeff": -1
+              },
+              "UseIndexEnd": false
+            },
+            "IgnoreObservationPeriod": false,
+            "Criteria": {"ConditionOccurrence": {
+              "ConditionTypeExclude": false,
+              "CodesetId": 1
+            }},
+            "Occurrence": {
+              "Type": 0,
+              "IsDistinct": false,
+              "Count": 0
+            }
+          },
+          {
+            "RestrictVisit": false,
+            "StartWindow": {
+              "UseEventEnd": false,
+              "Start": {
+                "Days": 365,
+                "Coeff": -1
+              },
+              "End": {
+                "Days": 1,
+                "Coeff": -1
+              },
+              "UseIndexEnd": false
+            },
+            "IgnoreObservationPeriod": false,
+            "Criteria": {"Observation": {
+              "ObservationTypeExclude": false,
+              "CodesetId": 1
+            }},
+            "Occurrence": {
+              "Type": 2,
+              "IsDistinct": false,
+              "Count": 1
+            }
+          }
+        ],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "Washout - no prior hearing loss in 365 days prior"
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {"Coeff": -1},
+            "End": {"Coeff": 1},
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": false,
+          "Criteria": {"ConditionOccurrence": {
+            "ConditionTypeExclude": false,
+            "CodesetId": 6
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "Not a congenital anomaly of hearing"
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {"Coeff": -1},
+            "End": {
+              "Days": 7,
+              "Coeff": -1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": false,
+          "Criteria": {"ConditionOccurrence": {
+            "ConditionTypeExclude": false,
+            "CodesetId": 2
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "Has no middle ear related disease"
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {"Coeff": -1},
+            "End": {
+              "Days": 7,
+              "Coeff": -1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": false,
+          "Criteria": {"ConditionOccurrence": {
+            "ConditionTypeExclude": false,
+            "CodesetId": 4
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "Has no inner ear related disease"
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {
+              "Days": 365,
+              "Coeff": -1
+            },
+            "End": {
+              "Days": 30,
+              "Coeff": -1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": false,
+          "Criteria": {"ProcedureOccurrence": {
+            "CodesetId": 3,
+            "ProcedureTypeExclude": false
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": []
+      },
+      "name": "Has not had audiometry in past 365 days"
+    }
+  ],
+  "PrimaryCriteria": {
+    "CriteriaList": [
+      {"ConditionOccurrence": {
+        "ConditionTypeExclude": false,
+        "CodesetId": 5
+      }},
+      {"ConditionOccurrence": {
+        "CorrelatedCriteria": {
+          "CriteriaList": [
+            {
+              "RestrictVisit": false,
+              "StartWindow": {
+                "UseEventEnd": false,
+                "Start": {
+                  "Days": 1,
+                  "Coeff": -1
+                },
+                "End": {
+                  "Days": 21,
+                  "Coeff": 1
+                },
+                "UseIndexEnd": false
+              },
+              "IgnoreObservationPeriod": false,
+              "Criteria": {"DrugExposure": {
+                "CodesetId": 8,
+                "DrugTypeExclude": false
+              }},
+              "Occurrence": {
+                "Type": 2,
+                "IsDistinct": false,
+                "Count": 1
+              }
+            },
+            {
+              "RestrictVisit": false,
+              "StartWindow": {
+                "UseEventEnd": false,
+                "Start": {
+                  "Days": 1,
+                  "Coeff": -1
+                },
+                "End": {
+                  "Days": 21,
+                  "Coeff": 1
+                },
+                "UseIndexEnd": false
+              },
+              "IgnoreObservationPeriod": false,
+              "Criteria": {"ProcedureOccurrence": {
+                "CodesetId": 9,
+                "ProcedureTypeExclude": false
+              }},
+              "Occurrence": {
+                "Type": 2,
+                "IsDistinct": false,
+                "Count": 1
+              }
+            },
+            {
+              "RestrictVisit": false,
+              "StartWindow": {
+                "UseEventEnd": false,
+                "Start": {
+                  "Days": 1,
+                  "Coeff": -1
+                },
+                "End": {
+                  "Days": 21,
+                  "Coeff": 1
+                },
+                "UseIndexEnd": false
+              },
+              "IgnoreObservationPeriod": false,
+              "Criteria": {"ProcedureOccurrence": {
+                "CodesetId": 3,
+                "ProcedureTypeExclude": false
+              }},
+              "Occurrence": {
+                "Type": 2,
+                "IsDistinct": false,
+                "Count": 2
+              }
+            }
+          ],
+          "Type": "ANY",
+          "DemographicCriteriaList": [],
+          "Groups": []
+        },
+        "ConditionTypeExclude": false,
+        "CodesetId": 1
+      }},
+      {"Observation": {
+        "CorrelatedCriteria": {
+          "CriteriaList": [
+            {
+              "RestrictVisit": false,
+              "StartWindow": {
+                "UseEventEnd": false,
+                "Start": {
+                  "Days": 1,
+                  "Coeff": -1
+                },
+                "End": {
+                  "Days": 21,
+                  "Coeff": 1
+                },
+                "UseIndexEnd": false
+              },
+              "IgnoreObservationPeriod": false,
+              "Criteria": {"DrugExposure": {
+                "CodesetId": 8,
+                "DrugTypeExclude": false
+              }},
+              "Occurrence": {
+                "Type": 2,
+                "IsDistinct": false,
+                "Count": 1
+              }
+            },
+            {
+              "RestrictVisit": false,
+              "StartWindow": {
+                "UseEventEnd": false,
+                "Start": {
+                  "Days": 1,
+                  "Coeff": -1
+                },
+                "End": {
+                  "Days": 21,
+                  "Coeff": 1
+                },
+                "UseIndexEnd": false
+              },
+              "IgnoreObservationPeriod": false,
+              "Criteria": {"ProcedureOccurrence": {
+                "CodesetId": 9,
+                "ProcedureTypeExclude": false
+              }},
+              "Occurrence": {
+                "Type": 2,
+                "IsDistinct": false,
+                "Count": 1
+              }
+            },
+            {
+              "RestrictVisit": false,
+              "StartWindow": {
+                "UseEventEnd": false,
+                "Start": {
+                  "Days": 1,
+                  "Coeff": 1
+                },
+                "End": {
+                  "Days": 21,
+                  "Coeff": 1
+                },
+                "UseIndexEnd": false
+              },
+              "IgnoreObservationPeriod": false,
+              "Criteria": {"ProcedureOccurrence": {
+                "CodesetId": 3,
+                "ProcedureTypeExclude": false
+              }},
+              "Occurrence": {
+                "Type": 2,
+                "IsDistinct": false,
+                "Count": 2
+              }
+            }
+          ],
+          "Type": "ANY",
+          "DemographicCriteriaList": [],
+          "Groups": []
+        },
+        "ObservationTypeExclude": false,
+        "CodesetId": 1
+      }}
+    ],
+    "PrimaryCriteriaLimit": {"Type": "All"},
+    "ObservationWindow": {
+      "PostDays": 0,
+      "PriorDays": 0
+    }
+  }
+}

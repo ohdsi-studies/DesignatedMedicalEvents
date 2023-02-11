@@ -1,0 +1,36 @@
+atlasId,cohortId,id,cohortName
+10727,10727,10727,"[PL] Earliest event of Acute Hepatic Failure, with NO prior liver disease"
+10667,10667,10667,"[PL] All events of Autoimmune hepatitis, with a washout period of 365 days"
+10668,10668,10668,[PL] Earliest event of Progressive multifocal leukoencephalopathy (PML)
+10710,10710,10710,[PL] Earliest event of Polymorphic ventricular tachycardia-torsades de pointes
+10659,10659,10659,"[PL] All events of Anaphylaxis, with NO Environmental exposures, with a washout period of 30 days"
+10660,10660,10660,"[PL] All events of Angioedema, with a washout period of 180 days"
+10669,10669,10669,[PL] All events of Severe Cutaneous Adverse Reaction (SCAR)
+10670,10670,10670,[PL] All events Drug Rash with Eosinophilia and Systemic Symptoms (DRESS)
+10711,10711,10711,"[PL] Earliest event of Stevens-Johnson syndrome, Toxic epidermal necrolysis spectrum (TEN), IP or ER"
+10671,10671,10671,"[PL] All events of Drug-induced Lupus, with No Systemic Lupus Erythematosus, 365 day washout period"
+10672,10672,10672,"[PL] All events of Long QT Syndrome or QT prolonged (Acquired), with a washout period of 180 days"
+10630,10630,10630,"[PL] All events Acute pancreatitis, indexed on visit with NO chronic or hereditary pancreatitis"
+10673,10673,10673,[PL] Earliest event of Posterior reversible encephalopathy syndrome (PRES)
+10631,10631,10631,"[PL] All events Acute pancreatitis, with No chronic or hereditary or common causes of pancreatitis"
+10735,10735,10735,"[PL] All events of Sudden Vision Loss, with no eye pathology causes, with a washout period of 365d"
+10713,10713,10713,"[PL] All events of Acute Kidney Injury (AKI), with prior chronic kidney disease, 30d washout period"
+10632,10632,10632,"[PL] Earliest event of Acquired Pure Red Cell Aplasia, with No constitutional aplasia"
+10694,10694,10694,"[PL] All events of Acquired Pancytopenia, indexed on diagnosis or measurement, with 365 days era"
+10714,10714,10714,"[PL] All events Acute Kidney Injury (AKI), with NO prior chronic kidney disease, 30d washout period"
+10654,10654,10654,"[PL] All events of Isolated Immune Thrombocytopenia (ITP), with a washout period of 365 days"
+10716,10716,10716,"[PL] All events of Acute Hepatic Failure, with washout period of 365 days"
+10736,10736,10736,"[PL] All events of Sudden Hearing Loss, No congenital anomaly or middle or inner ear conditions"
+10636,10636,10636,"[PL] All events of Acquired Neutropenia or unspecified Leukopenia, with 365 days era"
+10656,10656,10656,[PL] Earliest event of Thrombotic microangiopathy (TMA) or Microangiopathic hemolytic anemia (MAHA)
+10657,10657,10657,"[PL] All events Rhabdomyolysis, with IP visit, No injury or alcohol intoxication, 180 days washout"
+10653,10653,10653,"[PL] All events of Acquired Isolated Neutropenia or unspecified Leukopenia, with 365 days era"
+10655,10655,10655,"[PL] All events of Isolated Immune Thrombocytopenia (ITP), with NO common thrombocytopenia cause"
+10728,10728,10728,"[PL] Earliest event of Acute Liver Injury, with NO prior liver disease"
+10707,10707,10707,"[PL] Earliest event of Sudden Cardiac arrest or Cardiac death, in an IP or ER setting"
+10635,10635,10635,"[PL] All events Neutropenic Fever, Inpatient or ER, indexed on fever or Infection, 90 days era"
+10634,10634,10634,"[PL] All events Hemolytic Anemia Extra corpuscular, with 90 days era"
+10708,10708,10708,"[PL] Earliest event of Ventricular Tachycardia, in an IP or ER setting"
+10633,10633,10633,"[PL] All events Hemolytic Anemia Extra corpuscular, with NO enzyme deficiency anemia, 90 days era"
+10729,10729,10729,"[PL] All events of Acute Liver Injury, with a washout period of 365 days"
+10712,10712,10712,"[PL] All events of Acute Kidney Injury (AKI), with a washout period of 30 days"
